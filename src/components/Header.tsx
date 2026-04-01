@@ -1,6 +1,6 @@
 import { Link, useNavigate } from 'react-router-dom';
 import { ShoppingCart, Heart, User, Search, Menu, X } from 'lucide-react';
-import { useState } from 'react';
+import React, { useState } from 'react';
 import { useStore } from '../store/useStore';
 
 export default function Header() {
@@ -23,7 +23,7 @@ export default function Header() {
         <div className="flex justify-between items-center h-16">
           {/* Logo */}
           <Link to="/" className="flex-shrink-0 flex items-center">
-            <span className="text-2xl font-bold text-green-600 tracking-tight">Din & Sons</span>
+            <span className="text-2xl font-bold text-green-600 tracking-tight">sardarjunaid</span>
           </Link>
 
           {/* Desktop Search */}

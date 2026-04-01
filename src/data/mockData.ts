@@ -129,7 +129,7 @@ export const testimonials = [
   {
     id: 1,
     name: 'Sarah Johnson',
-    text: 'Din & Sons always delivers the freshest produce. Their same-day delivery is a lifesaver for my busy schedule!',
+    text: 'sardarjunaid always delivers the freshest produce. Their same-day delivery is a lifesaver for my busy schedule!',
     rating: 5,
   },
   {

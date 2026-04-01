@@ -37,7 +37,7 @@ export default function Checkout() {
         </div>
         <h1 className="text-4xl font-bold text-gray-900 mb-4">Order Placed Successfully!</h1>
         <p className="text-lg text-gray-600 mb-8">
-          Thank you for shopping with Din & Sons. Your order #ORD-{Math.floor(Math.random() * 100000)} is being processed.
+          Thank you for shopping with sardarjunaid. Your order #ORD-{Math.floor(Math.random() * 100000)} is being processed.
         </p>
         <div className="flex justify-center gap-4">
           <button onClick={() => navigate('/tracking')} className="bg-green-600 hover:bg-green-700 text-white font-bold py-3 px-8 rounded-full transition-colors">

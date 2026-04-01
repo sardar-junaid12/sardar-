@@ -8,7 +8,7 @@ export default function Footer() {
         <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-4 gap-8 mb-8">
           {/* About */}
           <div>
-            <h3 className="text-2xl font-bold text-green-500 mb-4">Din & Sons</h3>
+            <h3 className="text-2xl font-bold text-green-500 mb-4">sardarjunaid</h3>
             <p className="text-gray-400 mb-4">
               Providing the freshest groceries and daily essentials to your doorstep with care and quality since 1995.
             </p>
@@ -57,14 +57,14 @@ export default function Footer() {
               </li>
               <li className="flex items-center">
                 <Mail size={20} className="text-green-500 mr-2 flex-shrink-0" />
-                <span className="text-gray-400">support@dinandsons.com</span>
+                <span className="text-gray-400">support@sardarjunaid.com</span>
               </li>
             </ul>
           </div>
         </div>
 
         <div className="border-t border-gray-800 pt-8 mt-8 text-center text-gray-400 text-sm">
-          <p>&copy; {new Date().getFullYear()} Din & Sons Grocery. All rights reserved.</p>
+          <p>&copy; {new Date().getFullYear()} sardarjunaid Grocery. All rights reserved.</p>
         </div>
       </div>
     </footer>

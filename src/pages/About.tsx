@@ -2,7 +2,7 @@ export default function About() {
   return (
     <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-16">
       <div className="text-center mb-16">
-        <h1 className="text-4xl font-bold text-gray-900 mb-4">About Din & Sons</h1>
+        <h1 className="text-4xl font-bold text-gray-900 mb-4">About sardarjunaid</h1>
         <p className="text-lg text-gray-600 max-w-2xl mx-auto">
           Providing the freshest groceries and daily essentials to your doorstep with care and quality since 1995.
         </p>
@@ -20,13 +20,13 @@ export default function About() {
         <div>
           <h2 className="text-3xl font-bold text-gray-900 mb-6">Our Story</h2>
           <p className="text-gray-600 mb-4 leading-relaxed">
-            Din & Sons started as a small family-owned grocery store in the heart of the city. Our founder, Mr. Din, believed that everyone deserves access to fresh, high-quality food at affordable prices.
+            sardarjunaid started as a small family-owned grocery store in the heart of the city. Our founder, sardarjunaid, believed that everyone deserves access to fresh, high-quality food at affordable prices.
           </p>
           <p className="text-gray-600 mb-4 leading-relaxed">
             Over the years, we've grown from a single storefront to a comprehensive online delivery service, but our core values remain the same. We still personally inspect our produce and work directly with local farmers to ensure you get the best.
           </p>
           <p className="text-gray-600 leading-relaxed">
-            Today, Din & Sons is proud to serve thousands of families, bringing the farmer's market experience directly to your kitchen.
+            Today, sardarjunaid is proud to serve thousands of families, bringing the farmer's market experience directly to your kitchen.
           </p>
         </div>
       </div>
